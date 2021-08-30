@@ -1,4 +1,4 @@
-package testjk;
+package testjk;  //this is sample
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
