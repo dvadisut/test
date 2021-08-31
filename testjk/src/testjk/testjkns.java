@@ -1,4 +1,4 @@
-package testjk;  //this is sampletest done by dhinakaran
+package testjk;  //this is sampletest done by dhinakaran for jenkins
 
 //import org.openqa.selenium.WebDriver;
 //import org.openqa.selenium.chrome.ChromeDriver;
