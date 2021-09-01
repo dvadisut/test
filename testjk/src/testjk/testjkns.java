@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 @Test
 public class testjkns {
 
-	public  void jen(String[] args)  {
+	public  void jen()  {
 		//System.out.println("This is my first commit message");
 		System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\chromedriver\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
