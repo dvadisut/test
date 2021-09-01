@@ -2,12 +2,12 @@ package testjk;  //this is sampletest done by dhinakaran for jenkins testing DV 
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
-//@Test
+@Test
 public class testjkns {
 
-	public static void main(String[] args)  {
+	public  void jen(String[] args)  {
 		//System.out.println("This is my first commit message");
 		System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\chromedriver\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
