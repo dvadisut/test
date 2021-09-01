@@ -12,6 +12,7 @@ public class testjkns {
 		System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\chromedriver\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
         driver.get("https://seleniumeasy.com/test/basic-first-form-demo.html");
+        System.out.println("This is completed");
 		
 	}
 }
